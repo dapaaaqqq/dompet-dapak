@@ -36,4 +36,4 @@ python main.py
 
 ---
 
-Credit : Advan Daffa Pamungkas // XII TJKT 1 // SMKN 1 Blitar
+Any suggestion? DM me on Instagram @dooapaaaa
