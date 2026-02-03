@@ -1,0 +1,17 @@
+{
+    "saldo": 200000,
+    "transaksi": [
+        {
+            "tipe": "masuk",
+            "jumlah": 100000,
+            "keterangan": "sangu",
+            "waktu": "2026-01-22 10:40:33"
+        },
+        {
+            "tipe": "masuk",
+            "jumlah": 100000,
+            "keterangan": "sangu",
+            "waktu": "2026-01-23 15:07:21"
+        }
+    ]
+}

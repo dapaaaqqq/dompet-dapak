@@ -1,0 +1,4 @@
+data.json
+transaksi.csv
+__pycache__/
+*.pyc
